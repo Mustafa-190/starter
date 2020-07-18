@@ -13,6 +13,20 @@ return [
     |
     */
 
-    "welcome" => 'أهلا بكم'
-
+    "welcome" => 'أهلا بكم',
+    "offer name required" => 'اسم العرض مطلوب',
+    "offer name has been already" => 'اسم العرض موجود',
+    "price is required" => 'السعر مطلوب',
+    "price must be number" => 'السعر يجب أن يكون رقم',
+    "details is required" => 'التفاصيل مطلوبة',
+    "Submit" => 'موافق',
+    "Offer Details" => 'تفاصيل العرض',
+    "Offer Price" => 'سعر العرض',
+    "Offer Name" => 'اسم العرض',
+    "add your offer" => 'أضف عرضك',
+    "Offer Name ar" => 'اسم العرض عربي',
+    "Offer Name en" => 'اسم العرض انكليزي',
+    "Offer Details ar" => 'تفاصيل العرض عربي',
+    "Offer Details en" => 'تفاصيل العرض انكليزي',
+    
 ];
